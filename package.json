@@ -1,9 +1,9 @@
 {
+  "homepage": "https://acvp3llatg.github.io/e-plantShopping",
   "name": "shoppingcart",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://[YourGitHubAccountName].github.io/[YourProjectName]",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

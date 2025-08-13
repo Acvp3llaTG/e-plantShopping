@@ -18,7 +18,7 @@ jobs:
           node-version: '20' # Or your desired Node.js version
 
       - name: Install dependencies
-        run: npm ci
+        run: npm i
 
       - name: Build Vite App
         run: npm run build
